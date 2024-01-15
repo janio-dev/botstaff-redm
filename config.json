@@ -1,0 +1,11 @@
+{
+  "token": "MTE5MzMzNDQ1OTcxMDMxMjYxOA.GbZDhj.XRhf2mxAbmTxb46rPjcF4dCqoMC9zP8RQI9zlQ",
+  "clientId": "1193334459710312618",
+  "guildId": "1193336610092240916",
+  "roleID": "1193387085709725706",
+  "database": {
+    "host": "localhost",
+    "dialect": "mysql",
+    "db": "faroeste"
+  }
+}
